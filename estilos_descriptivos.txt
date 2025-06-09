@@ -1,0 +1,1 @@
+Estilos propuestos: fondo gris claro, texto Arial, color de texto #333, márgenes estándar.
